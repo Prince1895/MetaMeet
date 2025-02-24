@@ -1,6 +1,6 @@
 # 🚀 MetaMeet – A Virtual Space for Real-Time Social Interaction  
 
-MetaMeet is a **Gather Town clone** that lets users **move around a virtual space, interact via WebRTC video chat, and experience spatial audio** in real-time.  
+MetaMeet is a **webApp** that lets users **move around a virtual space, interact via WebRTC video chat, and experience spatial audio** in real-time.  
 
 ## 🌟 Features  
 - 🏠 **Multiplayer movement** (WASD-based controls)  
